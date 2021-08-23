@@ -1,7 +1,5 @@
 
-<h1># My-100-days-of-code-challenge</h1>
-
-<h2>Day 1 </h2>
+<h1>Day-1 #100 Days of Code</h1>
 
 <h3>Requirements/Prerequisites</h3>
 
